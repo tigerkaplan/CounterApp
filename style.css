@@ -31,4 +31,16 @@ body {
 span {
   font-size: 3rem;
   background-color: #B57EDC;
+  padding: 2px 12px;
+  margin-left: 16px;
+  margin-right: 16px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+button {
+  font-size: 3rem;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0px;
 }
