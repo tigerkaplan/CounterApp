@@ -1,2 +1,0 @@
-# CounterApp
-Counter App
